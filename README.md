@@ -526,78 +526,6 @@ Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 
 Note: If your community channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
-
-
-### Detailed Miner Pool List
-
-- [1stPool](https://etc.1stpool.org/)
-- [2Miners](https://2miners.com/etc-mining-pool)
-- [AltPool](http://etc.altpool.pro/)
-- [AntPool](https://antpool.com/)
-- [ANYHASH](https://anyhash.net/)
-- [BaikalMine](https://baikalmine.com/en/pplns/etc/)
-- [Beepool](https://beepool.org/coindetail/etc)
-- [BoomPool](http://etc.boompool.ru/)
-- [BTC.com](https://pool.btc.com/)
-- [BWPool](https://etc.bwpool.net/pool/i)
-- [CCMPool](http://ccmpool.ro/)
-- [Clona](https://etc.clona.ru)
-- [CoinMine](https://www2.coinmine.pl/etc/)
-- [CoinMiner](http://etc.coinminer.space/)
-- [Coinotron](https://www.coinotron.com/)
-- [CoolPool](https://coolpool.top/pool?coin=etc&type=pplns)
-- [Cominers](https://etc.cominers.org/)
-- [Comining](https://comining.io/)
-- [CrazyPool](https://crazypool.org/)
-- [Cruxpool](https://www.cruxpool.com/etc/)
-- [CRYPIT](https://crypit.net/?pool=ETC)
-- [DigiPools](https://etc.digipools.org/)
-- [ETCTurk](http://etcturk.sytes.net/)
-- [Ethashpool](https://ethashpool.com/etc)
-- [EtherDig](https://etherdig.ru/)
-- [Ethermine](https://etc.ethermine.org/)
-- [EtherTrench](http://etc.ethertrench.com/)
-- [EqualHash](https://equalhash.pt/)
-- [f2pool](https://www.f2pool.com/)
-- [FairPool](https://etc.fairpool.xyz/)
-- [FarMine](http://etc.farmine.net/)
-- [FirePool](https://firepool.com/)
-- [HashCity](https://hashcity.org/)
-- [HashOn](https://hashon.me/etc/home)
-- [Hellominer](https://hellominer.com/ETC/EtcHome.aspx)
-- [HuobiPool](https://www.huobipool.com/pow)
-- [HVPPS](http://etc.hvpps.net/)
-- [ICanMining](https://icanmining.ru/?l=en&d=pool&pool=etc)
-- [KDV-Mining](http://etc.kdv-mining.com/#/)
-- [MATPool](https://matpool.io/)
-- [MaxHash](https://etcpool.maxhash.org/)
-- [Minerall](https://minerall.io/ethereum-classic)
-- [MinerGate](https://minergate.com/etc-mining-pool)
-- [MiningFrance](https://etc.miningfrance.io/)
-- [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
-- [Mole-Pool](http://mole-pool.net/)
-- [Myminers](https://etc.myminers.org/)
-- [MyPool](https://etc.mypool.online/#/)
-- [Nanopool](https://etc.nanopool.org/)
-- [NLpool](http://etc.nlpool.nl/)
-- [Okex](https://www.okex.me/pool)
-- [Prohashing](https://prohashing.com/)
-- [ProtonMine](https://etc.protonmine.com/)
-- [SaturnPool](https://etc.saturnpool.com/)
-- [Smartpool](https://smartpool.by/etc)
-- [SoloMine](http://etc.solomine.org/)
-- [SoloPool](https://etc.solopool.org/)
-- [Spritzee](http://spritzee.ru/)
-- [TheMinersPond](https://theminerspond.com/ethereumclassic/)
-- [uuPool](https://uupool.cn/)
-- [ViaBTC](https://www.viabtc.com/)
-- [Wattpool](https://wattpool.net/pools)
-- [Whalesburg](https://whalesburg.com/)
-- [XNPOOL](https://www.xnpool.com/)
-- [XZRM](https://xzrm.com/pool?coin=etc)
-- [ŻET](https://etc.zet-tech.eu/)
-
-
 # Development Resources
 
 <div align="left">
@@ -700,17 +628,21 @@ The ideas behind the continuation of the original Ethereum project post-DAO bail
 ## Ethereum Classic Consensus Mechanisms
 Ethereum Classic is committed to Proof of Work as a consensus mechanism. The current Proof-of-Work (PoW) algorithm is `Ethash`.
 
-### Clique - PoA (Testnet)
+### Clique
+This Proof-of-Authority algorithm (PoA) is active on Kotti testnet.
 - [Clique: cross-client Proof-of-authority algorithm for Ethereum](https://medium.com/@Destiner/clique-cross-client-proof-of-authority-algorithm-for-ethereum-8b2a135201d)
 
-### Dagger Hashimoto - PoW (Obsolete)
+### Dagger Hashimoto
+This Proof-of-Work algorithm (PoW) was deactivated from the Ethereum Classic system.
 - [Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.
 
-### Ethash - Active PoW (Mainnet)
+### Ethash
+This Proof-of-Work algorithm (PoW) is active on Mordor testnet and the Ethereum Classic mainnet.
 - [Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.
 - [Ethash Design Rationale](https://github.com/ethereum/wiki/wiki/Ethash-Design-Rationale) - an overview of Ethash's design.
 
-### Keccak256 - PoW (Testnet)
+### Keccak256
+This Proof-of-Work algorithm (PoW) is active on Astor testnet.
 - [Astor Testnet](https://astor.host) - a testnet design for analysis of an algorithm change for the long-term future of Ethereum Classic due to Ethash's failure at ASIC resistance.
 
 ## Ethereum Project Protocols
