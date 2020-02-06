@@ -179,6 +179,7 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [Bithumb](https://www.bithumb.com/trade/order/ETCKRW)
 - [Bittrex](https://bittrex.com/Market/Index?MarketName=USD-ETC)
 - [Coinbase Pro](https://pro.coinbase.com/trade/ETC-USD)
+- [eToro](http://partners.etoro.com/B12999_A84702_TClick.aspx)
 - [Gate.io](https://gate.io/trade/etc_usdt)
 - [HitBTC](https://hitbtc.com/ETC-to-USDT)
 - [Huobi Global](https://www.huobi.com/en-us/register/?invite_code=2nf44)
@@ -220,6 +221,8 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [Utrust](https://utrust.com/)
 
 ## ETC Price Sources
+- [CoinGecko](https://www.coingecko.com/en/coins/ethereum-classic)
+- [Messari](https://messari.io/asset/ethereum-classic)
 - [TradingView](https://www.tradingview.com/symbols/ETCUSD/?t=1021192ac35f9a1f8e1cba0760398b)
 
 Note: If your business is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
