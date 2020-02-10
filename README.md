@@ -136,14 +136,14 @@ source: [EthereumVM.net](http://ethereumvm.net/)
   <img width="225" alt="Ethereum Classic Logo" src="./images/ethereum_classic_button_full.png">
 </div>
 
-## Dapp Environment
+## DApp Environment
 ### Games
 - [Alien Farm](https://alienfarm.highlander.network/) - Idle Alien Farm is the #1 Alien farming simulator and idle game on the blockchain. The more Alien you have, the more eggs they lay (each Alien lays at a rate of 1 per day). Hatch more Alien with your eggs to multiply your production, or cash them out for ETC!
 - [Arena Racing](https://arena.highlander.network/) - 5 players enter the stage to race to the finish. Every player pays 0.1 ETC to race. 1 player in the Arena loses the race but receives dividends from P3C which is bought every round and is locked up in the contract.
 - [ETCOdyssey](https://etcodyssey.com/) - Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
 - [Luckygames](https://luckygames.cc/) - Ethereum Classic Dice and Gambling site.
 
-### Decentralized Identity Dapps
+### Decentralized Identity DApps
 - [Bloom](https://bloom.co/) - BloomID eliminates the need for usernames and passwords. Simply scan a BloomID-enabled QR code or click “Log In with Bloom” to securely access apps and websites. Log In with Bloom helps mitigate fraud and prevents you from falling victim to credential stuffing attacks.
 - [Civic](https://www.civic.com/) - Through our decentralized architecture with the blockchain and biometrics on the mobile device, our platform provides multi-factor authentication without a username, password, third-party authenticator, or physical hardware token.
 - [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
@@ -171,14 +171,14 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 
 
 ## Notable Exchanges
-### Exchange Referrals
+### Exchanges with Referral Programs
 - [Binance](https://www.binance.com/en/register?ref=35703938)
 - [Binance US](https://www.binance.us/en?ref=35013735)
 - [eToro](http://partners.etoro.com/B12999_A84702_TClick.aspx)
 - [Huobi Global](https://www.huobi.com/en-us/register/?invite_code=2nf44)
 - [Kucoin](https://www.kucoin.com/?rcode=sefh7r)
 
-### Centralized Exchanges (All)
+### Centralized Exchanges
 - [ABCC](https://abcc.com/en/markets/etcusdt)
 - [ACX](https://acx.io/markets/etcaud)
 - [Altilly](https://www.altilly.com/market/ETC_USDT)
@@ -228,6 +228,7 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [CoinZest](https://kr.coinzest.com/coin-trade)
 - [CPDAX](https://www.cpdax.com/trade/ETC-BTC)
 - [Crex24](https://crex24.com/exchange/ETC-BTC)
+- [Crypcore](https://crypcore.com)
 - [DCoin](https://www.dcoin.com/currencyTrading/ETC_USDT)
 - [DEX-Trade](https://dex-trade.com/trading/ETCUSDT)
 - [DigiFinex](https://www.digifinex.com/en-ww/trade/USDT/ETC)
@@ -241,6 +242,7 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [FTX](https://ftx.com/trade/ETC-PERP)
 - [gate.io](https://www.gate.io/trade/etc_usdt)
 - [HitBTC](https://hitbtc.com/ETC-to-USDT)
+- [Hoo](https://hoo.com/trade/etc-usdt)
 - [HotBit](https://www.hotbit.io/exchange?symbol=ETC_USDT)
 - [Huobi Global](https://www.huobi.com/en-us/register/?invite_code=2nf44)
 - [Huobi Indonesia](https://www.huobi.com.co/exchange/#s=etc_usdt)
@@ -277,15 +279,19 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [ZBG](https://www.zbg.com/trade/etc_usdt)
 
 ### Decentralized Exchanges
-- [Bisq](https://bisq.network/markets/?currency=etc_btc) - an open-source, peer-to-peer application that allows you to buy and sell cryptocurrencies in exchange for national currencies. No registration required.
-- [EXNCE](https://exnce.com/) - an open source hybrid digital asset exchange service which supports new and established digital currencies on a convenient and seamless platform through which anyone can join, distribute airdrop crypto currencies.
-- [Saturn Network](https://www.saturn.network/) - the future of trustless, privacy-preserving, censorship resistant decentralized exchanges for any blockchain that supports smart contracts.
-- [Uniswap](https://uniswap.io/) - a protocol for automated token exchange on Ethereum. Second state is implementing this protocol on Ethereum Classic.
+- [Bisq](https://bisq.network/markets/?currency=etc_btc)
+- [EXNCE](https://exnce.com/)
+- [OpenLedger](https://dex.openledger.io/)
+- [Saturn Network](https://www.saturn.network/)
 
 ### Instant Exchanges
 *Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
+- [ABRA](https://www.abra.com/)
 - [AnyCoinDirect](https://anycoindirect.eu/en/buy-ethereum-classic)
+- [AtomicWallet](https://atomicwallet.io)
+- [Bit4Sale](https://bit4.sale/)
 - [Bitladon](https://www.bitladon.com/ethereum-classic)
+- [ChangeAngel](https://www.changeangel.io/)
 - [Changelly](https://changelly.com/?ref_id=k921a42h1w15qdrv)
 - [ChangeNOW](https://changenow.io/?link_id=7ae21adebbc76a)
 - [CoinDirect](https://www.coindirect.com/)
@@ -293,10 +299,22 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [CoinSwitch](https://coinswitch.co/)
 - [Coinveer](https://coinveer.com/)
 - [Cryptomate](https://cryptomate.co.uk/buy-ethereum-classic/)
+- [Cryptonator Converter](https://www.cryptonator.com/converter/)
+- [Exodus](https://www.exodus.io/)
 - [Exolix](https://exolix.com/)
+- [Faa.st](https://faa.st)
+- [Flyp.me](https://flyp.me/)
+- [Fud Desk](https://fuddesk.com/buy-crypto)
 - [GoDex](https://godex.io/)
+- [Infinito Wallet](https://www.infinitowallet.io/)
+- [InstaEx](https://instaex.io/)
 - [LiteBit](https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic)
+- [MorphToken](https://morphtoken.com)
+- [Paxful](https://paxful.com/sell-bitcoin/ethereum-classic-etc)
+- [RoundlyX](https://www.roundlyx.com/)
+- [SimpleSwap](https://simpleswap.io/coins/ethereum-classic)
 - [Switchain](https://www.switchain.com)
+- [Vertbase](https://www.vertbase.com/)
 
 ## Payment Processors
 - [CoinGate](https://coingate.com/)
@@ -308,6 +326,24 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [CoinGecko](https://www.coingecko.com/en/coins/ethereum-classic)
 - [Messari](https://messari.io/asset/ethereum-classic)
 - [TradingView](https://www.tradingview.com/symbols/ETCUSD/?t=1021192ac35f9a1f8e1cba0760398b)
+
+## Portfolio Trackers
+- [AltPocket](https://altpocket.io/)
+- [Blockfolio](https://blockfolio.com/)
+- [CoinStats](https://coinstats.app/)
+- [CoinTracking](https://cointracking.info/)
+- [Delta](https://delta.app/)
+
+## News Aggregators
+- [Blockfolio Signal](https://blockfolio.com/signal)
+- [Coinstats News](https://coinstats.app/en/news)
+- [CryptoPanic](https://cryptopanic.com/news/ethereum-classic/)
+- [Delta Direct](https://delta.app/en/direct)
+- [Token Insight](https://tokeninsight.com/tokenDetail?cid=2659)
+
+## Taxation Tools
+- [CoinTracker](https://www.cointracker.io/)
+- [CoinTracking](https://cointracking.info/)
 
 Note: If your business is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -326,16 +362,22 @@ Note: If your business is not listed, please reach out to the community via the 
 
 ### Hardware Wallet
 *Hardware wallets are secure wallets designed for long-term storage.*
+- [BC Vault](https://bc-vault.com)
+- [BitBox02 Multi Edition](https://shiftcrypto.ch/bitbox02/)
 - [Bitski](https://www.bitski.com/)
+- [CoolWallet](https://www.coolwallet.io/)
+- [Ellipal](https://www.ellipal.com/)
 - [Ledger](https://shop.ledger.com/pages/ledger-nano-x?r=a59f2fdba3bf)
 - [SafePal](https://shop.safepal.io/products/safepal-hardware-wallte-s1-bitcoin-wallet?ref=gitr0n1n)
 - [Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1847&source=github&aff_click_id=etcmasterlist)
 
 ### Software Wallets
 *Software wallets are Desktop or Mobile devices designed for short-term storage.*
-- [AToken](https://www.atoken.com/)
+- [ABRA](https://www.abra.com/)
 - [Alpha Wallet](https://alphawallet.com/)
+- [AToken](https://www.atoken.com/)
 - [Atomic Wallet](https://atomicwallet.io/)
+- [BTCPOP](https://btcpop.co/)
 - [Button Wallet](https://buttonwallet.com/)
 - [Citowise](https://citowise.com/)
 - [Cobo](https://cobo.com/)
@@ -347,10 +389,12 @@ Note: If your business is not listed, please reach out to the community via the 
 - [Ethos](https://www.ethos.io/universal-wallet/)
 - [Exodus](https://www.exodus.io/)
 - [Guarda](https://guarda.co/)
+- [HubrisOne](https://www.hubrisone.com/)
 - [Infinito Wallet](https://www.infinitowallet.io/)
 - [Jaxx](https://jaxx.io/)
 - [Ownbit](https://ownbit.io/)
 - [Trust Wallet](https://trustwallet.com/)
+- [ZenGo](https://zengo.com)
 - [Zelcore Wallet](https://zel.network/project/zelcore/)
 
 ### Other Wallet Products
@@ -586,20 +630,32 @@ Mining Algorithm: *Ethash*
 
 Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 
-## Community Channels
+## Social Channels
+### Public Service Announcement - NO "OFFICIAL" ANYTHING
+- Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem.
+- This PSA is to prevent attempts at misleading marketing by various organizations that attempt "Corporate capture".
+- There is **NO OFFICIAL ANYTHING**.
+
+Ethereum Classic's history is checkered with attempts at social attacks of on the Ethereum Classic network and it's asset `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
+
+Due to the *permissionless* nature of the network, the only defense to these social attacks is awareness and educational content. Good acting ETC participants do their best to provide accurate content, but decentralized networks require the end users to do their own due diligence. The following social channels were inspected at the time of addition to this list, but there is no guarantee the links have not been tampered with or motives of the admins have changed.
+
 ### Chat
 - [Discord](https://discordapp.com/invite/HW4GckH)
 - Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
 - Matrix (Developer Chat): [Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
+- Slack: [Ethereum Classic](https://ethereumclassic.herokuapp.com/)
 - Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
 - Tencent QQ: ETC Asia-769408114
 - WeChat: [insert link] *Note:* source QR images from ETC Coop and Chinese Websites.
 
 ### Forum
+- BitcoinTalk: [ETC Current](https://bitcointalk.org/index.php?topic=5134923), [ETC Archived](https://bitcointalk.org/index.php?topic=1559630.0),
 - Reddit: [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/)
 
-### Media
-- Podcast: [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
+### Podcasts
+- [Explore The Chain](https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf)
+- [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
 
 ### Repository
 - [Github](https://github.com/ethereumclassic)
@@ -711,6 +767,7 @@ The ideas behind the continuation of the original Ethereum project post-DAO bail
 - [How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy](https://etherplan.com/2019/07/22/how-to-have-a-vision-for-ethereum-classic-without-creating-a-governance-orgy/8359/)
 - [The Ethereum Classic vs Ethereum 1.x Dichotomy](https://etherplan.com/2019/09/18/the-ethereum-classic-vs-ethereum-1-x-dichotomy/8752/)
 - [Into the Ether with Ethereum Classic](https://grayscale.co/insights/into-the-ether-with-ethereum-classic/) - The Store of Value Commodity to Power the Internet of Things
+- [What is Ethereum Classic (ETC)?](https://www.publish0x.com/the-crypto-enthusiast-blog-intro/what-is-ethereum-classic-etc-the-coin-that-got-away-beginner-xkzrzo) - A Beginner's Guide to the `The Coin that Got Away`
 
 ## Ethereum Classic Consensus Mechanisms
 Ethereum Classic is committed to Proof of Work as a consensus mechanism. The current Proof-of-Work (PoW) algorithm is `Ethash`.
@@ -769,7 +826,24 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
 - [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liaison.
 
+## Crypto Podcasts
+- [CryptoBasic](https://www.cryptobasicpodcast.com/episodes)
+- [Epicenter](https://www.youtube.com/user/epicenterbtc/playlists)
+- [Explore The Chain](https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf)
+- [Fintech Legal](https://fintechlegal.fireside.fm/episodes)
+- [Into the Ether](https://podcast.ethhub.io/)
+- [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
+- [Programming Throwdown](https://www.programmingthrowdown.com/)
+- [Software Engineering Daily - Blockchain](https://softwareengineeringdaily.com/category/blockchain/)
+- [Software Engineering Radio](https://www.se-radio.net/)
+- [This Week in Crypto](https://thisweekincrypto.co/)
+- [Unchained](https://unchainedpodcast.com/)
+- [Zero Knowledge](https://www.zeroknowledge.fm/)
+
 ## Videos
+- [Ethereum Classic Explained](https://youtu.be/wOxwuoJaJXc) - 2016
+- [Ethereum vs Ethereum Classic](https://youtu.be/IOuEgLKqqjE) - 2018
+- [Ethereum Classic: Complete Review of ETC](https://youtu.be/xcenZlBdmzM) - 2019
 - [Ethereum Explained (22:00)](https://www.youtube.com/watch?v=-_Qs0XdPpw8) - Introductory explanation to the Ethereum platform.
 - [A Guide to Building Your First Decentralized Application (37:00)](https://www.youtube.com/watch?v=gSQXq2_j-mw)
 - [Ethereum YouTube Channel](https://www.youtube.com/user/ethereumproject) - Mostly older videos of Devcon 1 and before.
