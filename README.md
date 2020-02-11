@@ -320,7 +320,7 @@ Note: If your exchange is not listed, please reach out to the community via the 
 - [Yahoo Finance](https://finance.yahoo.com/quote/ETC-USD?p=ETC-USD)
 
 ## Aggregators
-## Crypto News Aggregators
+### Crypto News Aggregators
 - [Blockfolio Signal](https://blockfolio.com/signal)
 - [Bloomberg Crypto](https://www.bloomberg.com/topics/ethereum-classic)
 - [Coinstats News](https://coinstats.app/en/news)
@@ -417,108 +417,6 @@ Note: If your business is not listed, please reach out to the community via the 
 
 Note: If your product is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
-# DeFi Ecosysem Migration Project (UNDER CONSTRUCTION)
-## DeFi Project List
-- [Ampleforth]() - a digital-asset-protocol for smart commodity-money.
-- [Augmint]() - a smart contract platform that issues stable tokens targeted 1:1 to the EUR backed by collateral
-- [Augur] - a decentralized oracle and peer-to-peer protocol for prediction markets on Ethereum that lets anyone create a market around the outcome of any real-world event
-- [Bancor]() - a protocol on Ethereum for non-custodial token exchange using pooled liquidity.
-- [Betoken]() - An open crypto fund managed by code and meritocracy
-- [bZx]() - a decentralized protocol that enables lending and borrowing for margin trading
-- [Compound]() - an open-source money market protocol on Ethereum that lets users lend or borrow assets against collateral
-- [Connext]() - a non-custodial layer 2 payment-channel technology that enables off-chain, instant payments with low (or zero) transaction costs, helping scale the Ethereum network and paving the way for use cases like micropayments
-- [DeFiner]() - a globally available, decentralized lending marketplace to securely borrow and lend digital assets through smart-contracts
-- Dharma - a peer-to-peer marketplace on Ethereum for non-custodial lending and borrowing of cryptocurrencies built on an extensible open source protocol
-- DutchX - a fully decentralized trading protocol that allows anyone to add any trading token pair
-- dYdX - a non-custodial trading platform on Ethereum geared toward experienced traders
-- ETHLend (by Aave) - a P2P lending platform for fixed duration loans
-- Dex blue - a smart-contract escrow-based decentralized exchange with off-chain price negotiation
-- Flexa - a payment network that enables merchants to accept digital currencies without the risk of fraud or volatility through off-chain collateralization.
-- Fuse - a blockchain payment integration for businesses
-- Helena - a smart contract platform with gamified prediction markets
-- KyberSwap - an on-chain liquidity protocol that lets users perform swaps with liquidity from token holder reserves
-- Lightning Network - a Layer 2 protocol on top of Bitcoin that seeks to improve scalability by moving small and frequent transactions off-chain, allowing for fast peer-to-peer transactions and low fees.
-- Liquidity Network - a Layer 2 scalability solution that enables gas-less, near-instant trustless transactions & token swaps
-- Local Ethereum - a non - custodial peer-to-peer ETH marketplace featuring end to end encryption and on -chain escrow.
-- Loom Network - a DPOS layer 2 scaling solution that allows developers to run large-scale applications on top of Ethereum
-- Loopring - an open source protocol for decentralized exchanges designed to provide matching-as-a-service, and its orders are unidirectional and do not differentiate takers and makers giving complete control to traders
-- Maker - a decentralized credit platform on Ethereum that supports Dai, a stablecoin whose value is pegged to USD and backed in ETH or BAT
-- Market Protocol - a protocol on Ethereum which offers tokenized leverage trading of anything asset through synthetic pricing
-- Melon - an open-source, community-run protocol for asset management on Ethereum. Melon lets users create, manage, and invest in decentralized funds composed of ETH and ERC20s
-- MerkleX - a decentralized exchange that uses a decentralized clearing network. Merklex allows traders to set limits on what can happen to their funds.
-- Monolith - a decentralised banking alternative, powered by Ethereum.
-- Neutral - a meta-stablecoin system built using a basket of multiple stablecoins to generate a lower volatility token with a reduced risk profile
-- Nexus Mutual - a decentralized insurance platform where people can share risk particularly against smart contract bugs, failure or other black swan events
-- Nitrogen Network - a decentralized P2P network for secured loans
-- Nuo Network - a non-custodial platform on Ethereum that provides a decentralized debt marketplace. Users can lend, borrow, or margin trade any supported cryptoasset
-- Ren - a provider of inter-blockchain liquidity for all decentralized applications
-- Request Network - an open network for transaction requests. It allows anyone to create, store and access invoices and receipts in a universal, decentralized network.
-- Set Protocol - a protocol designed to create, manage, and obtain baskets of tokenized assets
-- Synthetix - a decentralized platform on Ethereum for the creation of Synths: on-chain synthetic assets that track the value of real-world assets
-- Tokentax - an easy to use cryptocurrency & DeFi taxes calculator
-- Totle - a decentralized liquidity provider where you can swap and transfer tokens while automatically getting the best prices from decentralized exchanges
-- UMA - a decentralized protocol to enable the creation, maintenance, and settlement of financial contracts for any underlying asset
-- Uniswap - a fully decentralized on-chain protocol for token exchanges on Ethereum that uses liquidity pools instead of order books
-- USDx - USDx is a decentralized and synthetic indexed stablecoin introduced by dForce. - - USDx's initial underlying portfolios include USDC, TUSD, PAX and DAI
-- WBTC - an ERC20 token that is backed 1:1 by bitcoin.
-- xDai - an Ethereum sidechain with 5-second block times, low gas prices, and a native token that’s also called xDai.
-
-## DeFi wallets
-
-- Alpha Wallet - a mobile-based wallet built for Dapps. Do everything with only a few taps.
-- Argent - a secure smart contract wallet built for simplicity, security and usability.
-- Ash - a wallet interface focused on DeFi asset management powered by Melon Protocol
-- Atomex - a multicurrency HD wallet with built-in hybrid atomic swap exchange
-- Eidoo - a non-custodial wallet that allows users to store, exchange and transact cryptoassets with a wide range of DeFi services and tools.
-- Fetch - a DeFi forward wallet with integrated DEX trading and portfolio management tools
-- Gnosis Safe - a secure way to manage funds and interact with decentralized applications on Ethereum
-- Poketto - a wallet that you can actually show to your parents
-
-## DeFi interfaces
-
-- Bamboo Relay - a 0x relayer built to trade, lend, and borrow tokens directly from your wallet.
-- DDEX - Decentralized Margin TradingTrade with leverage and earn passive income in DeFi
-- DeFi Saver - an easy to use management portal for MakerDAO CDPs and compound protfolios
-- DEX AG - a trading interface that finds you the best price from 11 different DEXes
-- dForce Network - a decentralized finance protocol, starting with the first synthetic indexed stablecoin — USDx
-- EasyCDP - an interface for MakerDAO that vastly simplifies the process of opening and managing a CDP
-- FiatDex Gateway - a simple browser-based interface to interact with the FiatDex protocol which allows users to trustlessly swap fiat to crypto
-- InstaDApp - an intuitive interface on top of the MakerDAO protocol that’s optimized for users lacking advanced technical or financial experience
-- Unspent - a dashboard for all crypto and open finance activity: investing, trading, lending & borrowing
-- Zerion - an easy to use trustless banking interface utilizing popular DeFi protocols
-
-## DeFi Analytics
-
-- 0x Tracker - a trade explorer for 0x protocol and decentralized ERC20 token price index
-- Coin Interest Rate - a dashboard showcasing borrowing and lending rates for USDC and DAI
-- DefiScan - a read-only DeFi profile explorer for Compound, Uniswap, and SpankChain
-- Loan Scan - a dashboard showing the best rates to earn passive income or lowest rates to borrow crypto
-- UniswapROI - a calculator to help you analyze your investments in Uniswap and find the best liquidity pools
-- Whois0x - a database of wallet addresses and their linked social media accounts that also provides easy to understand DeFi stats for each address
-
-## Podcasts
-- Chris Blec - a collection of demos for various DeFi products, targeted to beginner & intermediate users.
-- Into the Ether Podcast - a podcast focusing on all things related to Ethereum, the leading blockchain for decentralized applications.
-- Wyre Podcast - a podcast where Thomas Scaria interviews founders of top DeFi projects twice a month. Giving insight to their business as well as the technical challenges that they have overcome.
-
-## DeFi Newletters
-- Bankless - the ultimate guide to crypto finance written by Ryan Sean Adams
-- DeFi Prime - a list of the best Decentralized Finance Products
-- DeFi Tutorial - a newsletter focused on teaching and educating readers about DeFI with hands on video tutorials
-- DeFi Weekly - a weekly in-depth review of technical achievements within decentralized finance
-- Dose of DeFi - a weekly newsletter that specializes in deep dives on topics in the space
-- EthHub Weekly Newsletter - a collection of the week's Ethereum and cryptocurrency news curated by the founders of EthHub
-- My Two Gwei - a bi-weekly interview-format newsletter related to crypto trading and DeFi
-- The Defiant - a curated list of daily news in the DeFi space explained and conensed down to a digestable level by Camila Russo
-
-## DeFi Communities
-- Concourse Open Community - an open community of builders, enthusiasts and researchers working towards a free, bountiful and decentralized future for everyone
-- DeFi Nation - a DeFi-oriented community featuring discussions, walk-throughs, Q&A calls and more
-
-
-
-
-
 # Ethereum Classic Participants
 
 <div align="left">
@@ -544,7 +442,7 @@ Note: If your product is not listed, please reach out to the community via the E
 | 2019 | [PegaSys](https://pegasys.tech/) | [@PegaSysEng](https://twitter.com/PegaSysEng) | Active | [source code](https://github.com/hyperledger/besu) |
 | 2019 | [Second State](https://www.secondstate.io/) | [@secondstateinc](https://twitter.com/secondstateinc) | Active | [source code](https://github.com/second-state) |
 
-Note: If attribution is missing for your team, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+Note: If your team is missing from this attribution list, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
 ## Mining
 ### Top 5 Mining Pools
@@ -555,7 +453,7 @@ Top 5 Mining Pools by Hashrate at the time of writing:
 4. [2Miners](https://2miners.com/etc-mining-pool)
 5. [Beepool](https://beepool.org/coindetail/etc)
 
-### Detailed Miner Pool List
+### Miner Pool List (Alphabetical)
 - [1stPool](https://etc.1stpool.org/)
 - [2Miners](https://2miners.com/etc-mining-pool)
 - [AltPool](http://etc.altpool.pro/)
@@ -636,17 +534,13 @@ Mining Algorithm: *Ethash*
 | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | | |
 | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](https://github.com/etherchain-org/qtminer) | [Qtminer](https://github.com/etherchain-org/qtminer) |
 
-Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
+Optimization Tool: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 
 ## Social Channels
-### Public Service Announcement - NO "OFFICIAL" ANYTHING
-- Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem.
-- This PSA is to prevent attempts at misleading marketing by various organizations that attempt "Corporate capture".
-- There is **NO OFFICIAL ANYTHING**.
-
-Ethereum Classic's history is checkered with attempts at social attacks of on the Ethereum Classic network and it's asset `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
-
-Due to the *permissionless* nature of the network, the only defense to these social attacks is awareness and educational content. Good acting ETC participants do their best to provide accurate content, but decentralized networks require the end users to do their own due diligence. The following social channels were inspected at the time of addition to this list, but there is no guarantee the links have not been tampered with or motives of the admins have changed.
+### Public Service Announcement
+> There is **NO OFFICIAL ANYTHING**.
+> Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem.
+> Ethereum Classic's history is checkered with attempts at social attacks on the Ethereum Classic network and it's `assets` or `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
 
 ### Chat
 - [Discord](https://discordapp.com/invite/HW4GckH)
@@ -675,7 +569,7 @@ Due to the *permissionless* nature of the network, the only defense to these soc
 - [EthereumClassic.org](https://ethereumclassic.org)
 - International Community Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
 
-Note: If your community channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+Note: If your social channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
 # Development Resources
 
@@ -886,3 +780,103 @@ This work is published from:
 </p>
 
  For the full license see `LICENSE`.
+
+
+
+ # DeFi Ecosysem Migration Project (UNDER CONSTRUCTION)
+ ## DeFi Project List
+ - [Ampleforth]() - a digital-asset-protocol for smart commodity-money.
+ - [Augmint]() - a smart contract platform that issues stable tokens targeted 1:1 to the EUR backed by collateral
+ - [Augur] - a decentralized oracle and peer-to-peer protocol for prediction markets on Ethereum that lets anyone create a market around the outcome of any real-world event
+ - [Bancor]() - a protocol on Ethereum for non-custodial token exchange using pooled liquidity.
+ - [Betoken]() - An open crypto fund managed by code and meritocracy
+ - [bZx]() - a decentralized protocol that enables lending and borrowing for margin trading
+ - [Compound]() - an open-source money market protocol on Ethereum that lets users lend or borrow assets against collateral
+ - [Connext]() - a non-custodial layer 2 payment-channel technology that enables off-chain, instant payments with low (or zero) transaction costs, helping scale the Ethereum network and paving the way for use cases like micropayments
+ - [DeFiner]() - a globally available, decentralized lending marketplace to securely borrow and lend digital assets through smart-contracts
+ - Dharma - a peer-to-peer marketplace on Ethereum for non-custodial lending and borrowing of cryptocurrencies built on an extensible open source protocol
+ - DutchX - a fully decentralized trading protocol that allows anyone to add any trading token pair
+ - dYdX - a non-custodial trading platform on Ethereum geared toward experienced traders
+ - ETHLend (by Aave) - a P2P lending platform for fixed duration loans
+ - Dex blue - a smart-contract escrow-based decentralized exchange with off-chain price negotiation
+ - Flexa - a payment network that enables merchants to accept digital currencies without the risk of fraud or volatility through off-chain collateralization.
+ - Fuse - a blockchain payment integration for businesses
+ - Helena - a smart contract platform with gamified prediction markets
+ - KyberSwap - an on-chain liquidity protocol that lets users perform swaps with liquidity from token holder reserves
+ - Lightning Network - a Layer 2 protocol on top of Bitcoin that seeks to improve scalability by moving small and frequent transactions off-chain, allowing for fast peer-to-peer transactions and low fees.
+ - Liquidity Network - a Layer 2 scalability solution that enables gas-less, near-instant trustless transactions & token swaps
+ - Local Ethereum - a non - custodial peer-to-peer ETH marketplace featuring end to end encryption and on -chain escrow.
+ - Loom Network - a DPOS layer 2 scaling solution that allows developers to run large-scale applications on top of Ethereum
+ - Loopring - an open source protocol for decentralized exchanges designed to provide matching-as-a-service, and its orders are unidirectional and do not differentiate takers and makers giving complete control to traders
+ - Maker - a decentralized credit platform on Ethereum that supports Dai, a stablecoin whose value is pegged to USD and backed in ETH or BAT
+ - Market Protocol - a protocol on Ethereum which offers tokenized leverage trading of anything asset through synthetic pricing
+ - Melon - an open-source, community-run protocol for asset management on Ethereum. Melon lets users create, manage, and invest in decentralized funds composed of ETH and ERC20s
+ - MerkleX - a decentralized exchange that uses a decentralized clearing network. Merklex allows traders to set limits on what can happen to their funds.
+ - Monolith - a decentralised banking alternative, powered by Ethereum.
+ - Neutral - a meta-stablecoin system built using a basket of multiple stablecoins to generate a lower volatility token with a reduced risk profile
+ - Nexus Mutual - a decentralized insurance platform where people can share risk particularly against smart contract bugs, failure or other black swan events
+ - Nitrogen Network - a decentralized P2P network for secured loans
+ - Nuo Network - a non-custodial platform on Ethereum that provides a decentralized debt marketplace. Users can lend, borrow, or margin trade any supported cryptoasset
+ - Ren - a provider of inter-blockchain liquidity for all decentralized applications
+ - Request Network - an open network for transaction requests. It allows anyone to create, store and access invoices and receipts in a universal, decentralized network.
+ - Set Protocol - a protocol designed to create, manage, and obtain baskets of tokenized assets
+ - Synthetix - a decentralized platform on Ethereum for the creation of Synths: on-chain synthetic assets that track the value of real-world assets
+ - Tokentax - an easy to use cryptocurrency & DeFi taxes calculator
+ - Totle - a decentralized liquidity provider where you can swap and transfer tokens while automatically getting the best prices from decentralized exchanges
+ - UMA - a decentralized protocol to enable the creation, maintenance, and settlement of financial contracts for any underlying asset
+ - Uniswap - a fully decentralized on-chain protocol for token exchanges on Ethereum that uses liquidity pools instead of order books
+ - USDx - USDx is a decentralized and synthetic indexed stablecoin introduced by dForce. - - USDx's initial underlying portfolios include USDC, TUSD, PAX and DAI
+ - WBTC - an ERC20 token that is backed 1:1 by bitcoin.
+ - xDai - an Ethereum sidechain with 5-second block times, low gas prices, and a native token that’s also called xDai.
+
+ ## DeFi wallets
+
+ - Alpha Wallet - a mobile-based wallet built for Dapps. Do everything with only a few taps.
+ - Argent - a secure smart contract wallet built for simplicity, security and usability.
+ - Ash - a wallet interface focused on DeFi asset management powered by Melon Protocol
+ - Atomex - a multicurrency HD wallet with built-in hybrid atomic swap exchange
+ - Eidoo - a non-custodial wallet that allows users to store, exchange and transact cryptoassets with a wide range of DeFi services and tools.
+ - Fetch - a DeFi forward wallet with integrated DEX trading and portfolio management tools
+ - Gnosis Safe - a secure way to manage funds and interact with decentralized applications on Ethereum
+ - Poketto - a wallet that you can actually show to your parents
+
+ ## DeFi interfaces
+
+ - Bamboo Relay - a 0x relayer built to trade, lend, and borrow tokens directly from your wallet.
+ - DDEX - Decentralized Margin TradingTrade with leverage and earn passive income in DeFi
+ - DeFi Saver - an easy to use management portal for MakerDAO CDPs and compound protfolios
+ - DEX AG - a trading interface that finds you the best price from 11 different DEXes
+ - dForce Network - a decentralized finance protocol, starting with the first synthetic indexed stablecoin — USDx
+ - EasyCDP - an interface for MakerDAO that vastly simplifies the process of opening and managing a CDP
+ - FiatDex Gateway - a simple browser-based interface to interact with the FiatDex protocol which allows users to trustlessly swap fiat to crypto
+ - InstaDApp - an intuitive interface on top of the MakerDAO protocol that’s optimized for users lacking advanced technical or financial experience
+ - Unspent - a dashboard for all crypto and open finance activity: investing, trading, lending & borrowing
+ - Zerion - an easy to use trustless banking interface utilizing popular DeFi protocols
+
+ ## DeFi Analytics
+
+ - 0x Tracker - a trade explorer for 0x protocol and decentralized ERC20 token price index
+ - Coin Interest Rate - a dashboard showcasing borrowing and lending rates for USDC and DAI
+ - DefiScan - a read-only DeFi profile explorer for Compound, Uniswap, and SpankChain
+ - Loan Scan - a dashboard showing the best rates to earn passive income or lowest rates to borrow crypto
+ - UniswapROI - a calculator to help you analyze your investments in Uniswap and find the best liquidity pools
+ - Whois0x - a database of wallet addresses and their linked social media accounts that also provides easy to understand DeFi stats for each address
+
+ ## Podcasts
+ - Chris Blec - a collection of demos for various DeFi products, targeted to beginner & intermediate users.
+ - Into the Ether Podcast - a podcast focusing on all things related to Ethereum, the leading blockchain for decentralized applications.
+ - Wyre Podcast - a podcast where Thomas Scaria interviews founders of top DeFi projects twice a month. Giving insight to their business as well as the technical challenges that they have overcome.
+
+ ## DeFi Newletters
+ - Bankless - the ultimate guide to crypto finance written by Ryan Sean Adams
+ - DeFi Prime - a list of the best Decentralized Finance Products
+ - DeFi Tutorial - a newsletter focused on teaching and educating readers about DeFI with hands on video tutorials
+ - DeFi Weekly - a weekly in-depth review of technical achievements within decentralized finance
+ - Dose of DeFi - a weekly newsletter that specializes in deep dives on topics in the space
+ - EthHub Weekly Newsletter - a collection of the week's Ethereum and cryptocurrency news curated by the founders of EthHub
+ - My Two Gwei - a bi-weekly interview-format newsletter related to crypto trading and DeFi
+ - The Defiant - a curated list of daily news in the DeFi space explained and conensed down to a digestable level by Camila Russo
+
+ ## DeFi Communities
+ - Concourse Open Community - an open community of builders, enthusiasts and researchers working towards a free, bountiful and decentralized future for everyone
+ - DeFi Nation - a DeFi-oriented community featuring discussions, walk-throughs, Q&A calls and more
