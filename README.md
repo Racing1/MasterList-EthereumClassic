@@ -260,6 +260,7 @@ Note: If your project is not listed, please reach out to the community via the E
 - [ChangeNOW](https://changenow.io/?link_id=7ae21adebbc76a)
 - [CoinSwitch](https://coinswitch.co/)
 - [Coinveer](https://coinveer.com/)
+- [Edge](https://edge.app/)
 - [Exodus](https://www.exodus.io/)
 - [Exolix](https://exolix.com/)
 - [GoDex](https://godex.io/)
